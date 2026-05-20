@@ -1,8 +1,0 @@
-meu_projeto/
-├── main.py
-├── tests/
-│   ├── __init__.py
-│   ├── test_auth.py
-│   └── test_tarefas.py
-├── requirements.txt
-└── .env

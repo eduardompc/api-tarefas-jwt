@@ -1,0 +1,17 @@
+ApiTarefas/
+├── ApiTarefas.csproj
+├── Program.cs
+├── appsettings.json
+├── appsettings.Development.json
+├── Models/
+│   ├── Usuario.cs
+│   ├── Tarefa.cs
+│   └── Token.cs
+├── Services/
+│   └── TokenService.cs
+├── Middleware/
+│   └── AuthMiddleware.cs
+├── Tests/
+│   ├── ApiTarefas.Tests.csproj
+│   └── TarefasControllerTests.cs
+└── README.md
